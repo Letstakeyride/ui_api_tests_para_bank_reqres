@@ -6,7 +6,7 @@
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo/pycharm_logo.png"></code>
   <code><img width="5%" title="Python" src="images/logo/python_logo.png"></code>
-  <code><img width="5%" title="Pytest" src="images/logo/pytest_logo.png"></code>
+  <code><img width="5%" title="Pytest" src="images/logo/Pytest_logo.png"></code>
   <code><img width="5%" title="Selene" src="images/logo/selene_logo.png"></code>
   <code><img width="5%" title="Selenium" src="images/logo/selenium_logo.png"></code>
   <code><img width="5%" title="GitHub" src="images/logo/github_logo.png"></code>
@@ -24,10 +24,11 @@
 
 1. [Parabank](https://parabank.parasoft.com/parabank/) - UI
     - Регистрация пользователя
+    - Поиск аккаунта пользователя
     - Авторизация пользователя
-    - Поиск товара
-    - Удаление товара из корзины
-    - Добавление товара в корзину
+    - Открытие нового счёта в банке
+    - Перевод средств на новый счёт
+    - 
 2. [Reqres](https://reqres.in/) - API
    - Создание пользователя 
    - Обновление данных пользователя
