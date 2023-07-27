@@ -35,4 +35,39 @@
    - Авторизация пользователя
    - Удаление пользователя
 
+## Запуск тестов
 
+### [Запуск проекта в Jenkins](https://jenkins.autotests.cloud/job/Ui_Api_test_Parabank_Reqres/)
+
+Для запуска тестов выбрать "Собрать сейчас"
+
+![Jenkins](/images/screenshot/jenkins.png)
+
+Результат о прохождении тестов присылается в телеграм, со ссылкой на Allure отчет.
+
+![Telegram](/images/screenshot/telegram.png)
+
+### __Примеры Allure отчётов:__ 
+
+#### [Allure Report](https://jenkins.autotests.cloud/job/Ui_Api_test_Parabank_Reqres/3/allure/)
+
+UI-тесты
+
+![Allure UI](/images/screenshot/ui.png)
+
+API-тесты
+
+![Allure API](/images/screenshot/api.png)
+
+Пример видео прохождения теста
+
+![Allure vid](/images/screenshot/test.gif)
+
+### __Интеграции с другими сервисами:__ 
+[Allure TestOps](https://allure.autotests.cloud/project/3571/launches)
+
+![Allure TestOps](/images/screenshot/allure_testops.png)
+
+[Jira](https://jira.autotests.cloud/browse/HOMEWORK-823)
+
+![Allure TestOps](/images/screenshot/jira.png)
